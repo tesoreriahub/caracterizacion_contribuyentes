@@ -1,0 +1,59 @@
+{
+  "fuente": "Encuesta de adopción tecnológica del recaudo - Distrito de Medellín",
+  "poblacion": 448978,
+  "muestra": 2078,
+  "margen_error_95": "±2,1%",
+  "tipo_contribuyente": {
+    "Natural": 1949,
+    "Jurídica": 129
+  },
+  "rango_edad_personas_naturales": {
+    "18 a 25": 7,
+    "26 a 35": 73,
+    "36 a 45": 283,
+    "46 a 55": 484,
+    "56 o más": 1102
+  },
+  "estrato_personas_naturales": {
+    "Estrato 1": 54,
+    "Estrato 2": 245,
+    "Estrato 3": 588,
+    "Estrato 4": 465,
+    "Estrato 5": 366,
+    "Estrato 6": 231
+  },
+  "genero_personas_naturales": {
+    "Femenino": 989,
+    "Masculino": 958,
+    "Otro": 2
+  },
+  "uso_portal_previo": {
+    "Sí": 1520,
+    "No": 558
+  },
+  "autonomia_digital": {
+    "Autónomo": 1584,
+    "Ayuda ocasional": 201,
+    "Siempre necesita ayuda": 117,
+    "No logró completar": 176
+  },
+  "comportamiento_canal_usuarios": {
+    "Siempre virtual": 1260,
+    "Combina canales": 185,
+    "Volvió: mala experiencia": 45,
+    "Volvió: otra razón": 30
+  },
+  "dispositivos_pago_menciones": {
+    "Teléfono móvil": 1137,
+    "Comp. portátil": 831,
+    "Comp. escritorio": 608,
+    "Tablet": 74,
+    "No paga en línea": 207
+  },
+  "creditos": {
+    "desarrollado_por": "Julián Alberto Uribe Gómez",
+    "supervisado_por": "Jorge Iván Brand Ortiz",
+    "dependencia": "Subsecretaría de Tesorería del Distrito de Medellín",
+    "proyecto_cti": "Adopción tecnológica y analítica de datos orientados al fortalecimiento en la eficiencia del recaudo en la tesorería del distrito."
+  }
+}

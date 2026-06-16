@@ -15,17 +15,6 @@ Tablero ejecutivo que presenta el perfil del contribuyente del Distrito de Medel
 2. **El retrato del contribuyente** — Tipo (natural/jurídica), género, edad, estrato, dispositivos de pago, autonomía digital, uso previo del portal y retención en el canal virtual.
 3. **Tres lecturas para la decisión** — Implicaciones de política de recaudo.
 
-## Cómo desplegar en GitHub Pages
-
-1. Crea un repositorio nuevo en GitHub (por ejemplo, `caracterizacion-recaudo`).
-2. Sube **todos** los archivos de esta carpeta a la raíz del repositorio (incluido `index.html` y `.nojekyll`).
-3. En el repositorio, ve a **Settings → Pages**.
-4. En **Source**, elige la rama `main` (o `master`) y la carpeta `/ (root)`.
-5. Guarda. En uno o dos minutos el sitio quedará publicado en:
-   `https://<tu-usuario>.github.io/<nombre-del-repositorio>/`
-
-> Si prefieres servir desde una subcarpeta, coloca los archivos en `/docs` y elige esa carpeta como *Source* en el paso 4.
-
 ## Cómo actualizar las cifras
 
 Las cifras están escritas directamente en el objeto `D` dentro de `index.html` (busca `const D =`). Reemplaza los valores y vuelve a subir el archivo. El archivo `datos/caracterizacion.json` reproduce esas mismas cifras como referencia legible.
